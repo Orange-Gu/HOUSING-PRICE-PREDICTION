@@ -1,0 +1,11 @@
+﻿地址,经度,纬度,是否精确,可信度,地址类型,坐标系,错误
+"Collie Cemetery, Western Australia, Australia ",116.1305272,-33.3509933,GEOMETRIC_CENTER,,,wgs84,
+"East Perth Cemeteries, Western Australia, Australia ",115.8792642,-31.9564424,GEOMETRIC_CENTER,,,wgs84,
+"St Mary's Cathedral, Western Australia, Australia ",115.8667088,-31.9554177,GEOMETRIC_CENTER,,,wgs84,
+"Western Australian Museum, Western Australia, Australia ",115.8619234,-31.9497246,GEOMETRIC_CENTER,,,wgs84,
+"Karrakatta, Western Australia, Australia ",115.8007193,-31.9656934,APPROXIMATE,,,wgs84,
+"Fremantle, Western Australia, Australia ",115.755096,-32.0517901,APPROXIMATE,,,wgs84,
+"Pinnaroo, Western Australia, Australia ",115.7766003,-31.8010223,GEOMETRIC_CENTER,,,wgs84,
+"Midland, Western Australia, Australia ",116.0134727,-31.8918569,APPROXIMATE,,,wgs84,
+"Guildford, Western Australia, Australia ",115.9717471,-31.8993798,APPROXIMATE,,,wgs84,
+"Rockingham, Western Australia, Australia ",115.7351399,-32.2780969,APPROXIMATE,,,wgs84,
